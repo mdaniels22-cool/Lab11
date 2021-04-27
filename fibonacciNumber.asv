@@ -6,6 +6,6 @@ elseif n==2
     fibonacciNum=1;
 else 
     count=count+1;
-    fibonacciNum=fibonacciNumber(n-2)+fibonacciNumber(n-1);
+    fibonacciNumber=fibonacciNumber(n-2)+fibonacciNumber(n-1);
 end
 end
